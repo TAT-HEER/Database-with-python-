@@ -1,13 +1,11 @@
 # Databases with Python: MySQL, SQLite & MongoDB  
-**Created by SDE Arts by Ahmed EL Mohandes**  
-**Course Platform: [Udemy](https://www.udemy.com/)**  
+**Platform: [Udemy](https://www.udemy.com/)**  
 
-## Course Description  
-Welcome to the **Databases with Python: MySQL, SQLite & MongoDB** course!  
+Welcome to the **Databases with Python: MySQL, SQLite & MongoDB** !  
 
 In today's data-driven world, **databases** are the backbone of almost every application. Whether you're managing user data for a web app, organizing files in a corporate system, or analyzing massive datasets as a data scientist, understanding how to use and manipulate databases is an essential skill.  
 
-This course is designed to help you master the art of working with databases using the Python programming language. From structured relational databases like **MySQL** and **SQLite** to the flexible and scalable world of **NoSQL** with **MongoDB**, you'll gain a comprehensive understanding of modern database systems.  
+This code is designed to help you master the art of working with databases using the Python programming language. From structured relational databases like **MySQL** and **SQLite** to the flexible and scalable world of **NoSQL** with **MongoDB**, you'll gain a comprehensive understanding of modern database systems.  
 
 ---
 
@@ -20,9 +18,6 @@ Databases are the cornerstone of any application. They enable developers to:
 Proficiency in databases is not just a skill but a necessity in the tech industry. Skilled database developers are in high demand, with competitive salaries and opportunities to work on cutting-edge projects.  
 
 ---
-
-## What You'll Learn  
-This course offers a rich curriculum covering both **SQL** and **NoSQL databases**, designed to take you from a beginner to a professional level.  
 
 ### Key Skills and Topics:  
 - Build and manipulate databases with Python.  
@@ -45,8 +40,7 @@ For someone like me, who loves Python, learning to integrate databases with Pyth
 
 ---
 
-## Course Benefits  
-By completing this course, you’ll:  
+By completing this code, you’ll:  
 - Gain **in-demand skills** in database management with Python.  
 - Be ready to tackle real-world projects and professional challenges.  
 - Have a solid understanding of both relational and NoSQL databases.  
@@ -76,17 +70,9 @@ MongoDB is a popular **NoSQL database management system** known for:
 
 ---
 
-## Why I Took This Course  
+## Why i love python?
 I’ve always loved Python for its elegance and power. Learning how to integrate Python with various databases allows me to expand my skill set and take on more advanced projects. This course provides an excellent opportunity to learn database management in an engaging, Python-centric way.  
 
 If you're a Python enthusiast like me, this course is a must-have! Let’s master the world of databases together.  
 
 ---
-
-## Repository  
-This repository contains all the practice exercises and projects I’ve completed during the course. Feel free to explore and contribute!  
-
-[GitHub Repository Link](https://github.com/TAT-HEER/Database-with-python-/tree/main)  
-
----  
-**Enroll today and take your Python and database skills to the next level!**  
